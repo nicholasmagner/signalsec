@@ -4,6 +4,8 @@ Agentic AI-powered cybersecurity news platform that autonomously ingests, summar
 
 
 🔗 **Live Application:** https://signalsec.vercel.app/
+<img width="1563" height="592" alt="image" src="https://github.com/user-attachments/assets/15186c08-044d-42b0-8c5f-07c1211c5b5e" />
+
 
 ---
 
@@ -54,6 +56,9 @@ The platform autonomously:
 - Persists refined intelligence for real-time consumption
 
 It operates continuously in the background without human prompting.
+
+<img width="1553" height="520" alt="image" src="https://github.com/user-attachments/assets/efc8b648-1738-4500-ab9f-388e3a167f4b" />
+
 
 ---
 
@@ -217,7 +222,10 @@ SignalSec implements a reasoning cycle inspired by ReAct:
 - Observe  
 - Think  
 - Act  
-- Reflect  
+- Reflect
+
+<img width="490" height="159" alt="image" src="https://github.com/user-attachments/assets/eaf6d16b-d049-4637-86cc-ff1a09d52db3" />
+
 
 The agent evaluates whether its output satisfies structural and logical requirements before committing state.
 
@@ -291,7 +299,9 @@ Users experience:
 - A clean intelligence dashboard  
 - Categorized feeds  
 - High-signal summaries  
-- Immediate readability  
+- Immediate readability
+<img width="1566" height="1005" alt="image" src="https://github.com/user-attachments/assets/67786178-6010-42f2-b57a-41983abf4147" />
+
 
 They do not manage prompts.  
 They do not supervise ingestion.  
@@ -310,7 +320,9 @@ Admins configure:
 - Source lists  
 - Cron intervals  
 - System prompts  
-- Rate limit thresholds  
+- Rate limit thresholds
+<img width="1268" height="221" alt="image" src="https://github.com/user-attachments/assets/1fd58af6-5417-4f14-ab2f-e60a554b0dbb" />
+
 
 The system is designed to run unattended.
 
@@ -420,3 +432,5 @@ It represents a shift from AI as an assistant to AI as an embedded reasoning sub
 Explore the live platform:
 
 https://signalsec.vercel.app/
+
+<img width="433" height="46" alt="image" src="https://github.com/user-attachments/assets/5ae01bba-b6c2-40dc-ba89-75eec88bf5f6" />
